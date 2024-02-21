@@ -1,5 +1,11 @@
+import Root from './components/layout/Root';
+
 function App() {
-  return <div>App</div>;
+  return (
+    <div>
+      <Root />
+    </div>
+  );
 }
 
 export default App;
